@@ -1,0 +1,13 @@
+name = "Neelam Sanjeeva Reddy"
+
+[photo]
+url = "https://upload.wikimedia.org/wikipedia/commons/b/b6/Neelam_Sanjiva_Reddy.jpg"
+attribution = "Bhavanajagat , Neelam Sanjiva Reddy, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+
+[contacts]
+wikipedia = "Neelam_Sanjiva_Reddy"
+
+[[tenures]]
+office_id = "poi"
+start = "1977-07-25"
+end = "1982-07-25"
