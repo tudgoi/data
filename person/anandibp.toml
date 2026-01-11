@@ -12,7 +12,9 @@ instagram = "anandiben_patel"
 wikidata = "Q4751365"
 
 [[tenures]]
-office_id = "goup"
+office_id = "gomp"
+start = "2018-01-23"
+end = "2019-07-28"
 
 [[tenures]]
 office_id = "gomp"
@@ -20,6 +22,4 @@ start = "2020-07-01"
 end = "2021-07-08"
 
 [[tenures]]
-office_id = "gomp"
-start = "2018-01-23"
-end = "2019-07-28"
+office_id = "goup"

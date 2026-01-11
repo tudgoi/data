@@ -9,10 +9,10 @@ wikipedia = "Rajendra_Prasad"
 
 [[tenures]]
 office_id = "poi"
-start = "1952-02-13"
-end = "1962-05-13"
+start = "1950-01-26"
+end = "1952-02-13"
 
 [[tenures]]
 office_id = "poi"
-start = "1950-01-26"
-end = "1952-02-13"
+start = "1952-02-13"
+end = "1962-05-13"

@@ -11,9 +11,9 @@ wikipedia = "Praful_Khoda_Patel"
 wikidata = "Q7237573"
 
 [[tenures]]
-office_id = "aold"
-start = "2020-12-05"
-
-[[tenures]]
 office_id = "aodh"
 start = "2020-01-26"
+
+[[tenures]]
+office_id = "aold"
+start = "2020-12-05"
