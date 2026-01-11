@@ -1,0 +1,13 @@
+name = "Shankar Dayal Sharma"
+
+[photo]
+url = "https://upload.wikimedia.org/wikipedia/commons/0/05/Shri_Shankar_Dayal_Sharma.jpg"
+attribution = "India Post, Government of India, GODL-India <https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf>, via Wikimedia Commons"
+
+[contacts]
+wikipedia = "Shankar_Dayal_Sharma"
+
+[[tenures]]
+office_id = "poi"
+start = "1992-07-25"
+end = "1997-07-25"
