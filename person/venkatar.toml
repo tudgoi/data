@@ -1,0 +1,13 @@
+name = "Ramaswamy Venkataraman"
+
+[photo]
+url = "https://upload.wikimedia.org/wikipedia/commons/b/b2/Ramaswamy_Venkataraman_%282012_stamp_of_India%29_%28cropped%29.jpg"
+attribution = "India Post, Government of India, GODL-India <https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf>, via Wikimedia Commons"
+
+[contacts]
+wikipedia = "Ramaswamy_Venkataraman"
+
+[[tenures]]
+office_id = "poi"
+start = "1987-07-25"
+end = "1992-07-25"

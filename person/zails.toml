@@ -1,0 +1,13 @@
+name = "Zail Singh"
+
+[photo]
+url = "https://upload.wikimedia.org/wikipedia/commons/3/3b/Giani_Zail_Singh.jpg"
+attribution = "India Post, Government of India, GODL-India <https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf>, via Wikimedia Commons"
+
+[contacts]
+wikipedia = "Zail_Singh"
+
+[[tenures]]
+office_id = "poi"
+start = "1982-07-25"
+end = "1987-07-25"
