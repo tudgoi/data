@@ -1,10 +1,16 @@
-name = "Chezhiaan  Govi. Dr"
+name = "Govi. Chezhiaan  "
 
 [photo]
 url = "https://www.assembly.tn.gov.in/16thassembly/members/170.jpg"
 
 [contacts]
 address = "No.83,  Keela Theru, Rajakkanallur, Solapuram Post, Kumbakonam Taluk, Thanjavur  District - 612 504."
+wikipedia = "Govi._Chezhian"
 
 [[tenures]]
 office_id = "mla-thiruvidaimarudur-sc"
+start = "2021-05-07"
+
+[[tenures]]
+office_id = "tnmfhe"
+start = "2024-09-28"
