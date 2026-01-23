@@ -1,0 +1,4 @@
+name = "Accounts Officer (GSO)"
+
+[supervisors]
+member_of = "gs-tn"

@@ -1,0 +1,4 @@
+name = "OSD to Governor"
+
+[supervisors]
+member_of = "gs-tn"

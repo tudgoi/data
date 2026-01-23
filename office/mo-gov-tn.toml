@@ -1,0 +1,4 @@
+name = "Medical Officer"
+
+[supervisors]
+member_of = "gho-tn"

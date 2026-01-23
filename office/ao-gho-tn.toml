@@ -1,0 +1,4 @@
+name = "Accounts Officer (GHO)"
+
+[supervisors]
+member_of = "gho-tn"

@@ -1,0 +1,4 @@
+name = "ADC to Governor (Police)"
+
+[supervisors]
+member_of = "gho-tn"

@@ -1,0 +1,4 @@
+name = "Section Officer, Establishment"
+
+[supervisors]
+member_of = "gs-tn"

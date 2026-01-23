@@ -1,0 +1,4 @@
+name = "Media & Communication Advisor to Governor"
+
+[supervisors]
+member_of = "gs-tn"

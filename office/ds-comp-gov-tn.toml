@@ -1,0 +1,4 @@
+name = "Deputy Secretary to Governor & Comptroller"
+
+[supervisors]
+member_of = "gho-tn"

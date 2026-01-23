@@ -1,0 +1,4 @@
+name = "Under Secretary (Tour)"
+
+[supervisors]
+member_of = "gs-tn"

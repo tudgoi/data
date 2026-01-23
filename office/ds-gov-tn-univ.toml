@@ -1,0 +1,4 @@
+name = "Deputy Secretary to Governor (Universities)"
+
+[supervisors]
+member_of = "gs-tn"
