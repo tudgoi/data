@@ -11,6 +11,7 @@ x = "rashtrapatibhvn"
 youtube = "presidentofindia"
 facebook = "presidentofindia"
 instagram = "presidentofindia"
+wikidata = "Q313383"
 
 [supervisors]
 adviser = "ucom"
