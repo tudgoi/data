@@ -1,0 +1,7 @@
+name = "MLA (Gangavalli (SC))"
+
+[contacts]
+email = "mlagangavallisc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

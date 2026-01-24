@@ -1,0 +1,7 @@
+name = "MLA (Attur (SC))"
+
+[contacts]
+email = "mlaattursc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

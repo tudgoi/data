@@ -1,0 +1,7 @@
+name = "MLA (Kilvaithinankuppam (SC))"
+
+[contacts]
+email = "mlakilvaithinankuppamsc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

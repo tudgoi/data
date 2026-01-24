@@ -7,4 +7,8 @@ url = "https://cms.tn.gov.in/cms_migrated/document/ministers_list/periyasamy_129
 wikipedia = "I._Periyasamy"
 
 [[tenures]]
+office_id = "mla-athoor"
+start = "2021-05-03"
+
+[[tenures]]
 office_id = "tnmfrd"

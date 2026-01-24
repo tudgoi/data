@@ -1,0 +1,7 @@
+name = "MLA (Periyakulam (SC))"
+
+[contacts]
+email = "mlaperiyakulamsc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

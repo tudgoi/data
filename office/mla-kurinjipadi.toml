@@ -1,0 +1,7 @@
+name = "MLA (Kurinjipadi)"
+
+[contacts]
+email = "mlakurinjipadi@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

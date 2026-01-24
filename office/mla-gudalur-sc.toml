@@ -1,0 +1,7 @@
+name = "MLA (Gudalur (SC))"
+
+[contacts]
+email = "mlagudalursc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

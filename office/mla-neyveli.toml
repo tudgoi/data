@@ -1,0 +1,7 @@
+name = "MLA (Neyveli)"
+
+[contacts]
+email = "mlaneyveli@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

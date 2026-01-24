@@ -1,0 +1,7 @@
+name = "MLA (Mailam)"
+
+[contacts]
+email = "mlamailam@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

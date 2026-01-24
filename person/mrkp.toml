@@ -7,4 +7,8 @@ url = "https://cms.tn.gov.in/cms_migrated/document/ministers_list/paneerselvam_m
 wikipedia = "M._R._K._Panneerselvam"
 
 [[tenures]]
+office_id = "mla-kurinjipadi"
+start = "2021-05-03"
+
+[[tenures]]
 office_id = "tnmfaafw"

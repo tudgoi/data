@@ -1,0 +1,7 @@
+name = "MLA (Modakkurichi)"
+
+[contacts]
+email = "mlamodakkurichi@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

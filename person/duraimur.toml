@@ -7,4 +7,8 @@ url = "https://cms.tn.gov.in/cms_migrated/document/ministers_list/duraimurugan_0
 wikipedia = "Durai_Murugan"
 
 [[tenures]]
+office_id = "mla-katpadi"
+start = "2021-05-03"
+
+[[tenures]]
 office_id = "tnmfwr"

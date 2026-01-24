@@ -1,0 +1,7 @@
+name = "MLA (Thalli)"
+
+[contacts]
+email = "mlathalli@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

@@ -1,0 +1,7 @@
+name = "MLA (Kovilpatti)"
+
+[contacts]
+email = "mlakovilpatti@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

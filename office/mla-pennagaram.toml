@@ -1,0 +1,7 @@
+name = "MLA (Pennagaram)"
+
+[contacts]
+email = "mlapennagaram@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

@@ -1,0 +1,7 @@
+name = "MLA (Namakkal)"
+
+[contacts]
+email = "mlanamakkal@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

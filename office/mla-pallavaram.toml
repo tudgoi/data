@@ -1,0 +1,7 @@
+name = "MLA (Pallavaram)"
+
+[contacts]
+email = "mlapallavaram@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

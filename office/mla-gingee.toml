@@ -1,0 +1,7 @@
+name = "MLA (Gingee)"
+
+[contacts]
+email = "mlagingee@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

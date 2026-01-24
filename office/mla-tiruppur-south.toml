@@ -1,0 +1,7 @@
+name = "MLA (Tiruppur (South))"
+
+[contacts]
+email = "mlatiruppursouth@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

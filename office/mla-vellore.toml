@@ -1,0 +1,7 @@
+name = "MLA (Vellore)"
+
+[contacts]
+email = "mlavellore@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

@@ -1,0 +1,7 @@
+name = "MLA (Senthamangalam (ST))"
+
+[contacts]
+email = "mlasenthamangalamst@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

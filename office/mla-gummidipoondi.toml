@@ -1,0 +1,7 @@
+name = "MLA (Gummidipoondi)"
+
+[contacts]
+email = "mlagummidipoondi@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

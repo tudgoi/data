@@ -1,0 +1,7 @@
+name = "MLA (Kalasapakkam)"
+
+[contacts]
+email = "mlakalasapakkam@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

@@ -7,4 +7,8 @@ url = "https://cms.tn.gov.in/cms_migrated/document/ministers_list/saminathan_102
 wikipedia = "M._P._Saminathan"
 
 [[tenures]]
+office_id = "mla-kangayam"
+start = "2021-05-03"
+
+[[tenures]]
 office_id = "tnmftdip"

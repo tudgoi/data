@@ -7,4 +7,8 @@ url = "https://cms.tn.gov.in/cms_migrated/document/ministers_list/sakkarapani_12
 wikipedia = "R._Sakkarapani"
 
 [[tenures]]
+office_id = "mla-oddanchatram"
+start = "2021-05-03"
+
+[[tenures]]
 office_id = "tnmffacs"

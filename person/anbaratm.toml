@@ -7,4 +7,8 @@ url = "https://cms.tn.gov.in/cms_migrated/document/ministers_list/anbarasan_028.
 wikipedia = "T._M._Anbarasan"
 
 [[tenures]]
+office_id = "mla-alandur"
+start = "2021-05-03"
+
+[[tenures]]
 office_id = "tnmfmsamemm"

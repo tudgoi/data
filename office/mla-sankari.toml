@@ -1,0 +1,7 @@
+name = "MLA (Sankari)"
+
+[contacts]
+email = "mlasankari@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

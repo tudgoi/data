@@ -1,0 +1,7 @@
+name = "MLA (Gobichettipalayam)"
+
+[contacts]
+email = "mlagobichettipalayam@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

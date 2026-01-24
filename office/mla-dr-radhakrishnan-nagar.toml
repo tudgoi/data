@@ -1,0 +1,7 @@
+name = "MLA (Dr. Radhakrishnan Nagar)"
+
+[contacts]
+email = "mladrradhakrishnannagar@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

@@ -1,0 +1,7 @@
+name = "MLA (Paramathi-Velur)"
+
+[contacts]
+email = "mlaparamathivelur@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

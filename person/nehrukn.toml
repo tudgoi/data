@@ -7,4 +7,8 @@ url = "https://cms.tn.gov.in/cms_migrated/document/ministers_list/nehru_140.jpg"
 wikipedia = "K._N._Nehru"
 
 [[tenures]]
+office_id = "mla-tiruchirappalli-west"
+start = "2021-05-03"
+
+[[tenures]]
 office_id = "tnmfma"

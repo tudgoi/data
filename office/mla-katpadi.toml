@@ -1,0 +1,7 @@
+name = "MLA (Katpadi)"
+
+[contacts]
+email = "mlakatpadi@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

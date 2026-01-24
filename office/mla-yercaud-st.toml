@@ -1,0 +1,7 @@
+name = "MLA (Yercaud (ST))"
+
+[contacts]
+email = "mlayercaudst@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

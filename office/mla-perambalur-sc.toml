@@ -1,0 +1,7 @@
+name = "MLA (Perambalur (SC))"
+
+[contacts]
+email = "mlaperambalursc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

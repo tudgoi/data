@@ -1,0 +1,7 @@
+name = "MLA (Chidambaram)"
+
+[contacts]
+email = "mlachidambaram@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

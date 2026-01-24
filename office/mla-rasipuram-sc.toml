@@ -1,0 +1,7 @@
+name = "MLA (Rasipuram (SC))"
+
+[contacts]
+email = "mlarasipuramsc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

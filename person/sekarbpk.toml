@@ -7,4 +7,8 @@ url = "https://cms.tn.gov.in/cms_migrated/document/ministers_list/sekarbabu_018.
 wikipedia = "P._K._Sekar_Babu"
 
 [[tenures]]
+office_id = "mla-harbour"
+start = "2021-05-03"
+
+[[tenures]]
 office_id = "tnmfhrace"

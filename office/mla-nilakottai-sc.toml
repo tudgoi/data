@@ -1,0 +1,7 @@
+name = "MLA (Nilakottai (SC))"
+
+[contacts]
+email = "mlanilakottaisc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

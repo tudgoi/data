@@ -1,0 +1,7 @@
+name = "MLA (Aravakurichi)"
+
+[contacts]
+email = "mlaaravakurichi@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

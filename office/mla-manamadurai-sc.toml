@@ -1,0 +1,7 @@
+name = "MLA (Manamadurai (SC))"
+
+[contacts]
+email = "mlamanamaduraisc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

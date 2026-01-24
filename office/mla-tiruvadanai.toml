@@ -1,0 +1,7 @@
+name = "MLA (Tiruvadanai)"
+
+[contacts]
+email = "mlatiruvadanai@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

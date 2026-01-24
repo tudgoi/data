@@ -1,0 +1,7 @@
+name = "MLA (Athoor)"
+
+[contacts]
+email = "mlaathoor@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

@@ -1,0 +1,7 @@
+name = "MLA (Edappadi)"
+
+[contacts]
+email = "mlaedappadi@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

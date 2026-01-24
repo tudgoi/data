@@ -7,4 +7,8 @@ url = "https://cms.tn.gov.in/cms_migrated/document/ministers_list/geetha_jeevan_
 wikipedia = "P._Geetha_Jeevan"
 
 [[tenures]]
+office_id = "mla-thoothukkudi"
+start = "2021-05-03"
+
+[[tenures]]
 office_id = "tnmfswwe"

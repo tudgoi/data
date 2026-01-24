@@ -1,0 +1,7 @@
+name = "MLA (Paramakudi (SC))"
+
+[contacts]
+email = "mlaparamakudisc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

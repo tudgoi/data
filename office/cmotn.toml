@@ -1,1 +1,4 @@
 name = "Chief Minister of Tamil Nadu"
+
+[supervisors]
+responsible_to = "tn-la"

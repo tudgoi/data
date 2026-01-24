@@ -7,4 +7,8 @@ url = "https://upload.wikimedia.org/wikipedia/commons/3/32/The_Health_Minister_o
 wikipedia = "K._K._S._S._R._Ramachandran"
 
 [[tenures]]
+office_id = "mla-aruppukkottai"
+start = "2021-05-03"
+
+[[tenures]]
 office_id = "tnmfradm"

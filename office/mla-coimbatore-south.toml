@@ -1,0 +1,7 @@
+name = "MLA (Coimbatore (South))"
+
+[contacts]
+email = "mlacoimbatoresouth@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

@@ -1,0 +1,7 @@
+name = "MLA (Bargur)"
+
+[contacts]
+email = "mlabargur@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

@@ -1,0 +1,7 @@
+name = "MLA (Sholavandan (SC))"
+
+[contacts]
+email = "mlasholavandansc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

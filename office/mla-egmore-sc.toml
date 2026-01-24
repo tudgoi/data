@@ -1,0 +1,7 @@
+name = "MLA (Egmore (SC))"
+
+[contacts]
+email = "mlaegmoresc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

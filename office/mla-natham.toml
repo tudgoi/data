@@ -1,0 +1,7 @@
+name = "MLA (Natham)"
+
+[contacts]
+email = "mlanatham@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

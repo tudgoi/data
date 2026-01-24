@@ -1,0 +1,7 @@
+name = "MLA (Ramanathapuram)"
+
+[contacts]
+email = "mlaramanathapuram@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

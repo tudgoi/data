@@ -1,0 +1,7 @@
+name = "MLA (Ponneri (SC))"
+
+[contacts]
+email = "mlaponnerisc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

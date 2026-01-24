@@ -1,0 +1,7 @@
+name = "MLA (Maduranthakam (SC))"
+
+[contacts]
+email = "mlamaduranthakamsc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

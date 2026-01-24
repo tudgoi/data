@@ -1,0 +1,7 @@
+name = "MLA (Thousand Lights)"
+
+[contacts]
+email = "mlathousandlights@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

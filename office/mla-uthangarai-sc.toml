@@ -1,0 +1,7 @@
+name = "MLA (Uthangarai (SC))"
+
+[contacts]
+email = "mlauthangaraisc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

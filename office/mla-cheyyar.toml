@@ -1,0 +1,7 @@
+name = "MLA (Cheyyar)"
+
+[contacts]
+email = "mlacheyyar@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

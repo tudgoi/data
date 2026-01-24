@@ -1,0 +1,7 @@
+name = "MLA (Panruti)"
+
+[contacts]
+email = "mlapanruti@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

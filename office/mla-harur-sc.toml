@@ -1,0 +1,7 @@
+name = "MLA (Harur (SC))"
+
+[contacts]
+email = "mlaharursc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

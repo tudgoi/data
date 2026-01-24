@@ -1,0 +1,7 @@
+name = "MLA (Vaniyambadi)"
+
+[contacts]
+email = "mlavaniyambadi@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

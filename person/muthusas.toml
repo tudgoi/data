@@ -7,4 +7,8 @@ url = "https://cms.tn.gov.in/cms_migrated/document/ministers_list/muthusamy_099.
 wikipedia = "S._Muthusamy"
 
 [[tenures]]
+office_id = "mla-erode-west"
+start = "2021-05-03"
+
+[[tenures]]
 office_id = "tnmfhpae"

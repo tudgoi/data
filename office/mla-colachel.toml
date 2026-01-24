@@ -1,0 +1,7 @@
+name = "MLA (Colachel)"
+
+[contacts]
+email = "mlacolachel@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

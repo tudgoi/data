@@ -7,4 +7,8 @@ url = "https://cms.tn.gov.in/cms_migrated/document/ministers_list/sm_nasar_006.j
 wikipedia = "S._M._Nasar"
 
 [[tenures]]
+office_id = "mla-avadi"
+start = "2021-05-03"
+
+[[tenures]]
 office_id = "tnmfmwanrtw"

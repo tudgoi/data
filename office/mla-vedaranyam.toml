@@ -1,0 +1,7 @@
+name = "MLA (Vedaranyam)"
+
+[contacts]
+email = "mlavedaranyam@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

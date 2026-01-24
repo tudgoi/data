@@ -1,0 +1,7 @@
+name = "MLA (Cumbum)"
+
+[contacts]
+email = "mlacumbum@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

@@ -1,0 +1,7 @@
+name = "MLA (Kattumannarkoil (SC))"
+
+[contacts]
+email = "mlakattumannarkoilsc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

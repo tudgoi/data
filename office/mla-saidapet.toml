@@ -1,0 +1,7 @@
+name = "MLA (Saidapet)"
+
+[contacts]
+email = "mlasaidapet@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

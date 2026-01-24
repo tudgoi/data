@@ -1,0 +1,7 @@
+name = "MLA (Coonoor)"
+
+[contacts]
+email = "mlacoonoor@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

@@ -1,0 +1,7 @@
+name = "MLA (Lalgudi)"
+
+[contacts]
+email = "mlalalgudi@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

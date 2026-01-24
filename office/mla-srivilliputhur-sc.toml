@@ -1,0 +1,7 @@
+name = "MLA (Srivilliputhur (SC))"
+
+[contacts]
+email = "mlasrivilliputhursc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

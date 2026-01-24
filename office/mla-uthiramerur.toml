@@ -1,0 +1,7 @@
+name = "MLA (Uthiramerur)"
+
+[contacts]
+email = "mlauthiramerur@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

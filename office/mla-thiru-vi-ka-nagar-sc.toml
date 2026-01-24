@@ -1,0 +1,7 @@
+name = "MLA (Thiru-Vi-Ka-Nagar (SC))"
+
+[contacts]
+email = "mlathiruvikanagarsc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

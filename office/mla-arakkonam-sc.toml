@@ -1,0 +1,7 @@
+name = "MLA (Arakkonam (SC))"
+
+[contacts]
+email = "mlaarakkonamsc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

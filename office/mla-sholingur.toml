@@ -1,0 +1,7 @@
+name = "MLA (Sholingur)"
+
+[contacts]
+email = "mlasholingur@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

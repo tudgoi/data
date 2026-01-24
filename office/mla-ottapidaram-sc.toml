@@ -1,0 +1,7 @@
+name = "MLA (Ottapidaram (SC))"
+
+[contacts]
+email = "mlaottapidaramsc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

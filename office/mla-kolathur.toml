@@ -1,0 +1,7 @@
+name = "MLA (Kolathur)"
+
+[contacts]
+email = "mlakolathur@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

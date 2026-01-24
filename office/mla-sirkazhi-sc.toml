@@ -1,0 +1,7 @@
+name = "MLA (Sirkazhi (SC))"
+
+[contacts]
+email = "mlasirkazhisc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

@@ -1,0 +1,7 @@
+name = "MLA (Veppanahalli)"
+
+[contacts]
+email = "mlaveppanahalli@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

@@ -1,0 +1,7 @@
+name = "MLA (Madurai West)"
+
+[contacts]
+email = "mlamaduraiwest@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

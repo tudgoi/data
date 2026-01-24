@@ -1,0 +1,7 @@
+name = "MLA (Tiruchirappalli (West))"
+
+[contacts]
+email = "mlatiruchirappalliwest@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

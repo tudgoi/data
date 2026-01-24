@@ -1,0 +1,7 @@
+name = "MLA (Tiruppattur(Sivaganga))"
+
+[contacts]
+email = "mlatiruppattursivaganga@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

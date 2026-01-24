@@ -7,4 +7,8 @@ url = "https://cms.tn.gov.in/cms_migrated/document/ministers_list/rajakannappan_
 wikipedia = "Raja_Kannappan"
 
 [[tenures]]
+office_id = "mla-mudhukulathur"
+start = "2021-05-03"
+
+[[tenures]]
 office_id = "tnmffak"

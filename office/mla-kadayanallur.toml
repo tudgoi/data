@@ -1,0 +1,7 @@
+name = "MLA (Kadayanallur)"
+
+[contacts]
+email = "mlakadayanallur@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

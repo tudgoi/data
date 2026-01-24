@@ -1,0 +1,7 @@
+name = "MLA (Mylapore)"
+
+[contacts]
+email = "mlamylapore@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

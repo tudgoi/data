@@ -1,0 +1,7 @@
+name = "MLA (Poonamallee (SC))"
+
+[contacts]
+email = "mlapoonamalleesc@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

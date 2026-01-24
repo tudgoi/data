@@ -1,0 +1,7 @@
+name = "MLA (Virugampakkam)"
+
+[contacts]
+email = "mlavirugampakkam@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

@@ -1,0 +1,7 @@
+name = "MLA (Cuddalore)"
+
+[contacts]
+email = "mlacuddalore@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"

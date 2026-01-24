@@ -1,0 +1,7 @@
+name = "MLA (Kulithalai)"
+
+[contacts]
+email = "mlakulithalai@tn.gov.in"
+
+[supervisors]
+member_of = "tn-la"
