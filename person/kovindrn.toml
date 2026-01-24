@@ -1,0 +1,14 @@
+name = "Ram Nath Kovind"
+
+[photo]
+url = "https://upload.wikimedia.org/wikipedia/commons/7/70/Ram_Nath_Kovind_official_portrait.jpg"
+attribution = "The Rashtrapati Bhavan (GODL-India), GODL-India <https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf>, via Wikimedia Commons"
+
+[contacts]
+wikipedia = "Ram_Nath_Kovind"
+wikidata = "Q28046808"
+
+[[tenures]]
+office_id = "poi"
+start = "2017-07-25"
+end = "2022-07-25"

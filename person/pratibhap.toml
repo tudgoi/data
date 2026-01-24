@@ -1,0 +1,14 @@
+name = "Pratibha Patil"
+
+[photo]
+url = "https://upload.wikimedia.org/wikipedia/commons/6/61/The_President_of_India%2C_Smt._Pratibha_Patil.jpg"
+attribution = "President's Secretariat (GODL-India), GODL-India <https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf>, via Wikimedia Commons"
+
+[contacts]
+wikipedia = "Pratibha_Patil"
+wikidata = "Q46291"
+
+[[tenures]]
+office_id = "poi"
+start = "2007-07-25"
+end = "2012-07-25"

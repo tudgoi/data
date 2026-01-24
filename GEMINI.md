@@ -1,7 +1,7 @@
-# Database for The Unofficial Directory — Government of India
+# The Unofficial Directory — Government of India
 
-This contains the reporting hierarchy, tenure details and the contact information
-for all government employees in India.
+This contains the reporting hierarchy, tenure details and the contact
+information for all government employees in India.
 
 ## Directory Structure
 

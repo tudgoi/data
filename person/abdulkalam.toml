@@ -1,0 +1,14 @@
+name = "A. P. J. Abdul Kalam"
+
+[photo]
+url = "https://upload.wikimedia.org/wikipedia/commons/6/6e/A._P._J._Abdul_Kalam.jpg"
+attribution = "Government of India, GODL-India <https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf>, via Wikimedia Commons"
+
+[contacts]
+wikipedia = "A._P._J._Abdul_Kalam"
+wikidata = "Q249448"
+
+[[tenures]]
+office_id = "poi"
+start = "2002-07-25"
+end = "2007-07-25"

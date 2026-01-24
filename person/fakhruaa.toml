@@ -3,3 +3,11 @@ name = "Fakhruddin Ali Ahmed"
 [photo]
 url = "https://upload.wikimedia.org/wikipedia/commons/3/32/President_Fakhruddin_Ali_Ahmed.jpg"
 attribution = "President's Secretariat, GODL-India <https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf>, via Wikimedia Commons"
+
+[contacts]
+wikipedia = "Fakhruddin_Ali_Ahmed"
+
+[[tenures]]
+office_id = "poi"
+start = "1974-08-24"
+end = "1977-02-11"

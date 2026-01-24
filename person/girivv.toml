@@ -6,5 +6,10 @@ attribution = "Vice President's Secretariat, GODL-India <https://data.gov.in/sit
 
 [[tenures]]
 office_id = "poi"
+start = "1969-05-03"
+end = "1969-07-20"
+
+[[tenures]]
+office_id = "poi"
 start = "1969-08-24"
 end = "1974-08-24"

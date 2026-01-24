@@ -1,0 +1,21 @@
+✦ To perform this task more efficiently, the following tool enhancements would
+  have been particularly helpful:
+
+   1. Structured Web Extraction: A tool that could specifically target Wikipedia
+      infoboxes or tables and return them as structured JSON or CSV. This would
+      eliminate the need for manual parsing of the raw text returned by
+      web_fetch.
+   2. Fuzzy File/Entity Mapping: A tool that can map a list of names (e.g.,
+      "Abdul Kalam") to the most likely existing file (e.g., abdulkalam.toml)
+      using fuzzy matching. I spent several steps using grep and
+      search_file_content to ensure I wasn't creating duplicate records for
+      people already in the database.
+   3. Schema Validation: A linter or validator to verify that the TOML files I
+      created or modified conform to the project's specific schema (e.g.,
+      validating that office_id = "poi" exists and that date formats are
+      correct).
+   4. Batch Processing: A template-based tool that could take a structured list
+      of data and either create new files or update existing ones in a single
+      operation, rather than calling write_file or replace for each individual
+      record.
+
