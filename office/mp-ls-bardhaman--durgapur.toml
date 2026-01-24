@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Bardhaman--Durgapur"
+
+[contacts]
+wikipedia = "Bardhaman%E2%80%93Durgapur_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

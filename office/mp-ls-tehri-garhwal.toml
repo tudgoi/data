@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Tehri Garhwal"
+
+[contacts]
+wikipedia = "Tehri_Garhwal_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

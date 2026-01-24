@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Mumbai South"
+
+[contacts]
+wikipedia = "Mumbai_South_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

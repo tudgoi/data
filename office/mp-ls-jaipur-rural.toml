@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Jaipur Rural"
+
+[contacts]
+wikipedia = "Jaipur_Rural_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

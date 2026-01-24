@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Bangalore Rural"
+
+[contacts]
+wikipedia = "Bangalore_Rural_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

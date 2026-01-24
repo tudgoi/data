@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Gorakhpur"
+
+[contacts]
+wikipedia = "Gorakhpur_(Lok_Sabha_Constituency)"
+
+[supervisors]
+member_of = "ls"

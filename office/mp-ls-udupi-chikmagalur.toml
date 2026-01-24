@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Udupi Chikmagalur"
+
+[contacts]
+wikipedia = "Udupi_Chikmagalur_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

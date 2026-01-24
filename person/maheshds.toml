@@ -1,0 +1,8 @@
+name = "Dr. Mahesh Sharma"
+
+[contacts]
+wikipedia = "Dr._Mahesh_Sharma"
+
+[[tenures]]
+office_id = "mp-ls-gautam-buddh-nagar"
+start = "2024-06-04"

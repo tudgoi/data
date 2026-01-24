@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Hoshangabad"
+
+[contacts]
+wikipedia = "Hoshangabad_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

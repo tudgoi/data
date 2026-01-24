@@ -1,0 +1,12 @@
+name = "Jai Prakash"
+
+[contacts]
+wikipedia = "Jai_Prakash"
+
+[[tenures]]
+office_id = "mp-ls-hardoi"
+start = "2024-06-04"
+
+[[tenures]]
+office_id = "mp-ls-hisar"
+start = "2024-06-04"

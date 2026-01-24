@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Madhepura"
+
+[contacts]
+wikipedia = "Madhepura_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

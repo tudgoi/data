@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Banaskantha"
+
+[contacts]
+wikipedia = "Banaskantha_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Mizoram"
+
+[contacts]
+wikipedia = "Mizoram_Lok_Sabha_constituency"
+
+[supervisors]
+member_of = "ls"

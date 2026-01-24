@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Anantnag--Rajouri"
+
+[contacts]
+wikipedia = "Anantnag%E2%80%93Rajouri_Lok_Sabha_constituency"
+
+[supervisors]
+member_of = "ls"

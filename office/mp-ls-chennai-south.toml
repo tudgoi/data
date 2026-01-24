@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Chennai South"
+
+[contacts]
+wikipedia = "Chennai_South_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

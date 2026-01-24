@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Maldaha Uttar"
+
+[contacts]
+wikipedia = "Maldaha_Uttar_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

@@ -1,0 +1,16 @@
+name = "Rahul Gandhi"
+
+[photo]
+url = "https://upload.wikimedia.org/wikipedia/commons/9/91/Rahul_Gandhi.png"
+attribution = "Himanshu Arya Khowal, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+
+[contacts]
+wikipedia = "Rahul_Gandhi"
+
+[[tenures]]
+office_id = "mp-ls-rae-bareli"
+start = "2024-06-04"
+
+[[tenures]]
+office_id = "mp-ls-wayanad"
+start = "2024-06-04"

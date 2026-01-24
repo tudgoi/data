@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Dewas"
+
+[contacts]
+wikipedia = "Dewas_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

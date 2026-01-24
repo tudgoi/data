@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Dadra and Nagar Haveli"
+
+[contacts]
+wikipedia = "Dadra_and_Nagar_Haveli_Lok_Sabha_constituency"
+
+[supervisors]
+member_of = "ls"

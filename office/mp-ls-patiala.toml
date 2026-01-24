@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Patiala"
+
+[contacts]
+wikipedia = "Patiala_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

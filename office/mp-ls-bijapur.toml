@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Bijapur"
+
+[contacts]
+wikipedia = "Bijapur_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

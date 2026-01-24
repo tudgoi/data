@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Kushi Nagar"
+
+[contacts]
+wikipedia = "Kushi_Nagar_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

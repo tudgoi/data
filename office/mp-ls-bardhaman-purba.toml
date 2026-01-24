@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Bardhaman Purba"
+
+[contacts]
+wikipedia = "Bardhaman_Purba_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

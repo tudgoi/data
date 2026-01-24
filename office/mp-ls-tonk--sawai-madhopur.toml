@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Tonk–Sawai Madhopur"
+
+[contacts]
+wikipedia = "Tonk%E2%80%93Sawai_Madhopur_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

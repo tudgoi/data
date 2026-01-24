@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Dum Dum"
+
+[contacts]
+wikipedia = "Dum_Dum_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

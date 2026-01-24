@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Barpeta"
+
+[contacts]
+wikipedia = "Barpeta_Lok_Sabha_constituency"
+
+[supervisors]
+member_of = "ls"

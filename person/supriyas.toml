@@ -1,11 +1,16 @@
-name = "Supriya Sahu"
+name = "Supriya Sule"
 
 [photo]
 url = "https://upload.wikimedia.org/wikipedia/commons/4/44/Supriya_Sahu%2C_IAS.png"
 attribution = "Doordarshan, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
 
 [contacts]
+wikipedia = "Supriya_Sule"
 wikidata = "Q24658935"
+
+[[tenures]]
+office_id = "mp-ls-baramati"
+start = "2024-06-04"
 
 [[tenures]]
 office_id = "tneccfd-sg"

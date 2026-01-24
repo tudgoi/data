@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Bhandara--Gondiya"
+
+[contacts]
+wikipedia = "Bhandara%E2%80%93Gondiya_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

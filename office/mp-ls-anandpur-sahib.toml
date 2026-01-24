@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Anandpur Sahib"
+
+[contacts]
+wikipedia = "Anandpur_Sahib_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

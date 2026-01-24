@@ -9,3 +9,7 @@ wikipedia = "Amit_Shah"
 
 [[tenures]]
 office_id = "cm"
+
+[[tenures]]
+office_id = "mp-ls-gandhinagar"
+start = "2024-06-04"

@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Chittoor"
+
+[contacts]
+wikipedia = "Chittoor_(SC)_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

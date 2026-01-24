@@ -1,0 +1,8 @@
+name = "Shashi Tharoor"
+
+[contacts]
+wikipedia = "Shashi_Tharoor"
+
+[[tenures]]
+office_id = "mp-ls-thiruvananthapuram"
+start = "2024-06-04"

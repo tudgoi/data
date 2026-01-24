@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Inner Manipur"
+
+[contacts]
+wikipedia = "Inner_Manipur_Lok_Sabha_constituency"
+
+[supervisors]
+member_of = "ls"

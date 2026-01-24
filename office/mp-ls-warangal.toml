@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Warangal"
+
+[contacts]
+wikipedia = "Warangal_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

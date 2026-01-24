@@ -1,7 +1,14 @@
-name = "A. Chandran"
+name = "Chandrashekhar Azad"
 
 [photo]
 url = "https://chennaicorporation.gov.in/gcc/council/council-address/photo/ward027.jpg"
 
+[contacts]
+wikipedia = "Chandrashekhar_Azad_(politician)"
+
 [[tenures]]
 office_id = "gccc-ward-27"
+
+[[tenures]]
+office_id = "mp-ls-nagina"
+start = "2024-06-04"

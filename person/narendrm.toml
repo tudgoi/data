@@ -10,5 +10,9 @@ wikipedia = "Narendra_Modi"
 wikidata = "Q1058"
 
 [[tenures]]
+office_id = "mp-ls-varanasi"
+start = "2024-06-04"
+
+[[tenures]]
 office_id = "pm"
 start = "2014-05-26"

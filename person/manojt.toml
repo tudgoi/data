@@ -1,0 +1,12 @@
+name = "Manoj Tiwari"
+
+[contacts]
+wikipedia = "Manoj_Tiwari_(Delhi_politician)"
+
+[[tenures]]
+office_id = "mp-ls-alipurduars"
+start = "2024-06-04"
+
+[[tenures]]
+office_id = "mp-ls-north-east-delhi"
+start = "2024-06-04"

@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Nellore"
+
+[contacts]
+wikipedia = "Nellore_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

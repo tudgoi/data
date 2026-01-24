@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Nainital–Udhamsingh Nagar"
+
+[contacts]
+wikipedia = "Nainital%E2%80%93Udhamsingh_Nagar_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

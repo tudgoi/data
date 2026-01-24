@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Nagaon"
+
+[contacts]
+wikipedia = "Nowgong_Lok_Sabha_constituency"
+
+[supervisors]
+member_of = "ls"

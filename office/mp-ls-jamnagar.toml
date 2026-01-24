@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Jamnagar"
+
+[contacts]
+wikipedia = "Jamnagar_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

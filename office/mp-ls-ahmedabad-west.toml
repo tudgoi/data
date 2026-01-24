@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Ahmedabad West"
+
+[contacts]
+wikipedia = "Ahmedabad_West_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

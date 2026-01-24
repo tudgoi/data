@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Wardha"
+
+[contacts]
+wikipedia = "Wardha_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

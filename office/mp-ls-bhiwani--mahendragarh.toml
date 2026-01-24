@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Bhiwani--Mahendragarh"
+
+[contacts]
+wikipedia = "Bhiwani%E2%80%93Mahendragarh_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

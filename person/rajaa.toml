@@ -1,7 +1,14 @@
-name = "Raja Anbazhzgan"
+name = "A. Raja"
 
 [photo]
 url = "https://chennaicorporation.gov.in/gcc/council/council-address/photo/ward141.jpg"
 
+[contacts]
+wikipedia = "A._Raja"
+
 [[tenures]]
 office_id = "gccc-ward-141"
+
+[[tenures]]
+office_id = "mp-ls-nilgiris"
+start = "2024-06-04"

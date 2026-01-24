@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Kairana"
+
+[contacts]
+wikipedia = "Kairana_Lok_Sabha_constituency"
+
+[supervisors]
+member_of = "ls"

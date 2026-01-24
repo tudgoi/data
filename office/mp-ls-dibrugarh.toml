@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Dibrugarh"
+
+[contacts]
+wikipedia = "Dibrugarh_Lok_Sabha_constituency"
+
+[supervisors]
+member_of = "ls"

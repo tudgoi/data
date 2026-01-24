@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Rewa"
+
+[contacts]
+wikipedia = "Rewa_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

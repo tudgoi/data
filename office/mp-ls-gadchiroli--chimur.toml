@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Gadchiroli–Chimur"
+
+[contacts]
+wikipedia = "Gadchiroli%E2%80%93Chimur_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

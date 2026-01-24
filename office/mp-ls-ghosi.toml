@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Ghosi"
+
+[contacts]
+wikipedia = "Ghosi_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

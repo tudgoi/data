@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Sangli"
+
+[contacts]
+wikipedia = "Sangli_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"

@@ -1,0 +1,7 @@
+name = "Member of Parliament, Lok Sabha, Lohardaga"
+
+[contacts]
+wikipedia = "Lohardaga_(Lok_Sabha_constituency)"
+
+[supervisors]
+member_of = "ls"
